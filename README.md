@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_ashwin_16" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-logo-11549680523gyu1fhgduu.png" alt="@_ashwin_16" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ashwin sharma" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/496/112/893/linkedin-ico-icon-linkedin-png-hd.jpg" alt="ashwin sharma" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashwin-sharma-4a4b41219/" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/496/112/893/linkedin-ico-icon-linkedin-png-hd.jpg" alt="ashwin sharma" height="40" width="40" /></a>
 <a href="https://instagram.com/ash.xin16" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" alt="ash.xin16" height="40" width="40" /></a>
 </p>
 
