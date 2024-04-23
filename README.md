@@ -2,8 +2,9 @@
   <img src="https://github.com/AshwinScripter/AshwinScripter/blob/main/Git_banner.png"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Ashwin Sharma</h1>
+<img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Engineering Breakthroughs, One Commit at a Time</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
 👋 Hello World! I'm Ashwin, a passionate software engineer with a knack for crafting robust and scalable solutions. 🚀<br><br>🔭 I'm currently exploring the realms of AI and Fullstacks, diving deep into Data Structures and Algorithms.<br><br>🌱 On a continuous learning spree, always eager to embrace new technologies and methodologies. <br><br>💡 Fascinated by the power of code to solve real-world problems and streamline processes.<br><br>🛠️ Proficient in HTML, CSS, JavaScript, C++, Python, Java, Git, NodeJS, TailWind, MySQL and always expanding my toolkit.<br><br>📫 Let's connect! Open to collaborations, tech talks, and geeky discussions. Drop me a message at ashwin.official025@gmail.com or connect with me on https://www.linkedin.com/in/ashwin-sharma-4a4b41219/.<br><br>⚡ Fun Fact: When I'm not coding, you can find me Singing.<br>
